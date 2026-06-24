@@ -13,7 +13,7 @@ void setup() {
   lcd.print("Fuck Your");
 
   lcd.setCursor(0,1);
-  lcd.print("System Didar vai");
+  lcd.print("Hello Shahariar");
 
 }
 
